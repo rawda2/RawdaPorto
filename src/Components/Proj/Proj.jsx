@@ -85,8 +85,8 @@ export default function Proj() {
                 <h3 className=' text-light text-start'>ToDo List</h3>
                 <p className=' text-light text-start'>This web app is a To-Do List application that allows users to manage their daily tasks. It dynamically displays a list of tasks that users can add, edit, or delete. Users can mark tasks as complete or incomplete, and filter tasks based on their status. Tasks are saved locally, ensuring persistence even after a page refresh.</p>
                 <div className="btns d-flex justify-content-start">
-                  <button><a href="https://rawda2.github.io/Responsive_Resturant/" target="_blank">Demo</a></button>
-                  <button><a href="https://github.com/rawda2/Responsive_Resturant.git" target="_blank">Source Code</a></button>
+                  <button><a href="https://rawda2.github.io/React_CRUD/" target="_blank">Demo</a></button>
+                  <button><a href="https://github.com/rawda2/React_CRUD" target="_blank">Source Code</a></button>
 
                 </div>
                 </div>
